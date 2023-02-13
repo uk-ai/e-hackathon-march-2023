@@ -11,7 +11,7 @@ layout: home
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" display="block" onclick="openTab(event, 'description')">Description</button>
+  <button class="tablinks active" onclick="openTab(event, 'description')">Description</button>
   <button class="tablinks" onclick="openTab(event, 'location')">Location</button>
   <button class="tablinks" onclick="openTab(event, 'schedule')">Schedule</button>
   <button class="tablinks" onclick="openTab(event, 'material')">Material</button>
@@ -19,7 +19,7 @@ layout: home
 </div>
 
 <!-- Tab content -->
-<div id="description" class="tabcontent">
+<div id="description" class="tabcontent" display="block">
   <p>One of the key aspects to advance the Artificial Intelligence field is to build communities around ML and its applications. As a step towards this goal, we are holding the first Turing AI Fellows Community Hackathon, which will enable ML and domain experts to share their knowledge and start building research collaborations.</p>
 </div>
 

@@ -18,7 +18,3 @@ function openTab(evt, tab_name) {
   document.getElementById(tab_name).style.display = "block";
   evt.currentTarget.className += " active";
 }
-
-function activeTab(evt, tab_name){
-   openTab(evt, tab_name);
-}
