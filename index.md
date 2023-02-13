@@ -4,3 +4,40 @@
 
 layout: home
 ---
+<head>
+<link rel="stylesheet" href="css/tabs.css">
+<script src="js/tabs.js"></script>
+</head>
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'description')" onload="openTab(event, 'description')">Description</button>
+  <button class="tablinks" onclick="openTab(event, 'location')" onload="openTab(event, 'location')">Location</button>
+  <button class="tablinks" onclick="openTab(event, 'schedule')">Schedule</button>
+  <button class="tablinks" onclick="openTab(event, 'material')">Material</button>
+  <button class="tablinks" onclick="openTab(event, 'participants')">Participants</button>
+</div>
+
+<!-- Tab content -->
+<div id="description" class="tabcontent">
+  <p></p>
+</div>
+
+<div id="location" class="tabcontent">
+  <p>Intel Lab</p>
+  <p>William Gates Building</p>
+  <p>15 JJ Thomson Ave, Cambridge, CB3 0FD</p>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576.8918776185558!2d0.09151032340100916!3d52.21099751785525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774a3f6e55cd%3A0xabf8227343e684c7!2sComputer%20Laboratory!5e0!3m2!1sen!2suk!4v1676307904600!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div id="schedule" class="tabcontent">
+  <p>TBD...</p>
+</div>
+
+<div id="material" class="tabcontent">
+  <p>TBD...</p>
+</div>
+
+<div id="participants" class="tabcontent">
+  <p>TBD...</p>
+</div>
