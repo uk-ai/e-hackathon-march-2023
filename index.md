@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<head onload="activeTab('description')">
+<head>
 <link rel="stylesheet" href="css/tabs.css">
 <script src="js/tabs.js"></script>
 </head>

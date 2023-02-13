@@ -25,3 +25,9 @@ function activeTab(tab_name){
 }
 
 tablinks[0].className += " active";
+
+window.onload = function() {
+  alert('hi');
+  document.getElementById(tab_name).style.display = "block";
+  evt.currentTarget.className += " active";
+};
