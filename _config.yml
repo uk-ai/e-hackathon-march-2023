@@ -19,7 +19,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 description: >- # this means to ignore newlines until "baseurl:"
-  One of the key aspects to advance the Artificial Intelligence field is to build communities around ML and its applications. As a step towards this goal, we are holding the first Turing AI Fellows Community Hackathon, which will enable ML and domain experts to share their knowledge and start building research collaborations.
+  We are holding the first Turing AI Fellows Community Hackathon to enable ML and domain experts sharing their knowledge and building research collaborations.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
