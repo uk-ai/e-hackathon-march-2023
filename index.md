@@ -5,8 +5,8 @@
 layout: home
 ---
 <head>
-<link rel="stylesheet" href="css/tabs.css">
-<script src="js/tabs.js"></script>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/function.js"></script>
 </head>
 
 <!-- Tab links -->
