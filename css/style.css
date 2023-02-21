@@ -32,3 +32,20 @@
   border: 1px solid #ccc;
   border-top: none;
 }
+
+/* Style hidden content */
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* Style table header */
+thead {
+  text-align: center;
+}
