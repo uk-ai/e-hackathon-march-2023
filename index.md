@@ -11,11 +11,11 @@ layout: home
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="openTab(event, 'description')">Description</button>
-  <button class="tablinks" onclick="openTab(event, 'location')">Location</button>
-  <button class="tablinks" onclick="openTab(event, 'schedule')">Schedule</button>
-  <button class="tablinks" onclick="openTab(event, 'material')">Material</button>
-  <button class="tablinks" onclick="openTab(event, 'participants')">Participants</button>
+  <button class="tablinks active" onclick="open_tab(event, 'description')">Description</button>
+  <button class="tablinks" onclick="open_tab(event, 'location')">Location</button>
+  <button class="tablinks" onclick="open_tab(event, 'schedule')">Schedule</button>
+  <button class="tablinks" onclick="open_tab(event, 'material')">Material</button>
+  <button class="tablinks" onclick="open_tab(event, 'participants')">Participants</button>
 </div>
 
 <!-- Tab content -->
