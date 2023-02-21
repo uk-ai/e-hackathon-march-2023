@@ -6,7 +6,7 @@ layout: home
 ---
 <head>
 <link rel="stylesheet" href="css/style.css">
-<script src="js/function.js"></script>
+<script src="js/functions.js"></script>
 </head>
 
 <!-- Tab links -->
