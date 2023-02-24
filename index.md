@@ -21,7 +21,7 @@ layout: home
 <!-- Tab content -->
 <div id="description" class="tabcontent" style="display: block;">
   <p>One of the key aspects to advance the Artificial Intelligence field is to build communities around ML and its applications. As a step towards this goal, we are holding the first Turing AI Fellows Community Hackathon, which will enable ML and domain experts to share their knowledge and start building research collaborations.</p>
-  <p>The registration form for the Hackathon is open <a href="https://forms.gle/UcR9fwZKjpamUAbD8" target="_blank">here!</a></p>
+  <p><strong>Registration is open <a href="https://forms.gle/UcR9fwZKjpamUAbD8" target="_blank">here!</a></strong></p>
 </div>
 
 <div id="location" class="tabcontent">
