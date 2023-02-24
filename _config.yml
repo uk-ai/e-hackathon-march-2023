@@ -23,14 +23,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  cabrerac
-baseurlsite: "https://cabrerac.github.io/e-hackathon-march-2023/"
+github_username:  mlatcl
+baseurlsite: "https://mlatcl.github.io/e-hackathon-march-2023/"
 
 ghub:
   edit: true
   repository: e-hackathon-march-2023
 
-repository: cabrerac/e-hackathon-march-2023/
+repository: mlatcl/e-hackathon-march-2023/
 
 # Build settings
 markdown: kramdown
