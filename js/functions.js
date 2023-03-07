@@ -42,7 +42,7 @@ function load_file(file_path, div_id){
             var row = body.insertRow(-1);
             for (var j = 0; j < cells.length; j++) {
               var cell = row.insertCell(-1);
-              if (i==10 && cells[j].includes(" Day "))
+              if (i==10 && cells[j].includes(" Day ")){
                  cell.innerHTML = "<b>" + cells[j] + "</b>";
               }else{
                  cell.innerHTML = cells[j];
