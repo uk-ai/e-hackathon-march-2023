@@ -32,7 +32,7 @@ function load_file(file_path, div_id){
       for (var i = 0; i < rows.length; i++) {
         var cells = rows[i].split(",");
         if (cells.length > 1) {
-          if (i == 0 or i == 10){
+          if (i == 0 || i == 10){
             var row = header.insertRow(0);
             for (var j = 0; j < cells.length; j++) {
               var cell = row.insertCell(-1);
