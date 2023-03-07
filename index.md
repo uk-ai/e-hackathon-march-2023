@@ -15,7 +15,7 @@ layout: home
   <button class="tablinks" onclick="open_tab(event, 'location')">Location</button>
   <button class="tablinks" onclick="open_tab(event, 'schedule')">Schedule</button>
   <button class="tablinks" onclick="open_tab(event, 'material')">Material</button>
-  <button class="tablinks" onclick="open_tab(event, 'participants')">Participants</button>
+  <button class="tablinks" onclick="open_tab(event, 'participants'); load_file('participants/participants.csv','participants_table'">Participants</button>
 </div>
 
 <!-- Tab content -->
