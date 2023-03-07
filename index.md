@@ -14,7 +14,7 @@ layout: home
 <div class="tab">
   <button class="tablinks active" onclick="open_tab(event, 'description')">Description</button>
   <button class="tablinks" onclick="open_tab(event, 'location')">Location</button>
-  <button class="tablinks" onclick="open_tab(event, 'schedule')">Schedule</button>
+  <button class="tablinks" onclick="open_tab(event, 'schedule'); load_file('schedule/schedule.csv','schedule_table')">Schedule</button>
   <button class="tablinks" onclick="open_tab(event, 'material')">Material</button>
   <button class="tablinks" onclick="open_tab(event, 'participants'); load_file('participants/participants.csv','participants_table')">Participants</button>
 </div>
@@ -33,7 +33,7 @@ layout: home
 </div>
 
 <div id="schedule" class="tabcontent">
-  <p>TBD...</p>
+  <div id="schedule_table"></div>
 </div>
 
 <div id="material" class="tabcontent">
