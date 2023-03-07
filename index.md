@@ -40,5 +40,5 @@ layout: home
 </div>
 
 <div id="participants" class="tabcontent">
-  <p>TBD...</p>
+  <div id="participants_table"></div>
 </div>
