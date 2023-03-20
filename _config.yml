@@ -18,10 +18,10 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   We are holding the first Turing AI Fellows Community Hackathon to enable ML and domain experts to share knowledge and build research collaborations.
 baseurl: "/e-hackathon-march-2023" # the subpath of your site, e.g. /blog
-url: "http://uk-ai.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uk-ai.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  uk-ai
-baseurlsite: "http://uk-ai.org/e-hackathon-march-2023/"
+baseurlsite: "https://uk-ai.org/e-hackathon-march-2023/"
 
 ghub:
   edit: true
