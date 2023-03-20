@@ -1,0 +1,9 @@
+main:
+  - label: Location
+    link: /ukai2023/location/
+  - label: Schedule
+    link: /ukai2023/schedule.html
+  - label: Material
+    link: /ukai2023/material.html
+  - label: Participants
+    link: /ukai2023/participants.html
