@@ -1,0 +1,128 @@
+---
+layout: page
+title: Learning to Run a Power Network
+---
+
+<h1>Learning to Run a Power Networl</h1>
+
+<h2>Task introduction & significance</h2>
+
+<p>
+  Power Grids are the backbone of modern society, a reliable access to electricity is an important sustainable development 
+  goal and index for measuring standard of living. In order for the grid to function safely operators need to maintain a balance 
+  between generation and demand, while respecting numerous system and timing constraints. Grid operators place a large emphasis 
+  on maintaining the stability and reliability of the grid while trying to minimise the associated cost of generation.
+</p>
+
+<p>
+  With growing concern over climate change there is a need to rethink how we generate and operate our grids. The increased usage 
+  of renewable energy, increasing electricity demand and added objectives make the task of controlling the grid increasingly difficult. 
+  This increase in difficulty  led to an interest in ML approaches to operate or assist in operating the grid.
+</p>
+
+<p>
+  The “Learning to run a power network” (L2RPN) challenge is a series of competitions proposed by Kelly et al. (2020) [1, 2] with the aim 
+  to test the potential of reinforcement learning to control electrical power transmission. In 2020, one such competition was run at the 
+  IEEE World Congress on Computational Intelligence (WCCI) 2020. The winners have published their novel approach of combining a Semi-MDP 
+  with an after-state representation at ICLR 2021 and made their 
+  <a class="c9" href="https://www.google.com/url?q=https://github.com/KAIST-AILab/SMAAC&amp;sa=D&amp;source=editors&amp;ust=1679321822320870&amp;usg=AOvVaw26oCkHclg_FL1yZb_jyeLH">
+  implementation
+  </a>
+  publicly available [3]. This competition is recurring with the 2022 edition ongoing currently.
+</p>
+
+<p> 
+  While the L2RPN challenge is likely much too ambitious for a two day Hackathon the aim is to work on a simpler power grid and get 
+  participants familiarised with the Grid2Op package, develop interesting agent designs they might expand on later and foster collaboration 
+  between members of the ATI community.
+</p>
+
+<p>
+  The following notebooks will bring you up to the baseline familiarity likely needed for this task:
+  <ol start="1">
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/00_Introduction.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822321558&amp;usg=AOvVaw3lH-9CkWoX6-fFq_PtRSYA">
+      Introduction
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/00_SmallExample.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822321862&amp;usg=AOvVaw0qwiogDVO4Zq3M1M-Cne7y">
+      Toy Example
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/01_Grid2opFramework.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822322217&amp;usg=AOvVaw2Xbz9WzBJOuyBPrvzeUuYk">
+      Grid2Op Framework
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/02_Observation.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822322512&amp;usg=AOvVaw2icawasCRj7Lga6G1DUOSL">
+      Observations
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/03_Action.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822322835&amp;usg=AOvVaw3mErCy7jHBZVWrJUq4aoNs">
+      Actions
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/04_TrainingAnAgent.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822323160&amp;usg=AOvVaw3zZfmRZNdNXGzB5ffMWypn">
+      Training an Agent
+      </a>
+    </li>
+    <li>
+      <a href="https://www.google.com/url?q=https://colab.research.google.com/github/rte-france/Grid2Op/blob/master/getting_started/05_StudyYourAgent.ipynb&amp;sa=D&amp;source=editors&amp;ust=1679321822323442&amp;usg=AOvVaw3uK6VjEL44tYY8bf3JC4AY">
+      Studying an Agent
+      </a>
+    </li>
+  </ol>
+</p>
+
+<p>
+  Once familiar with the baseline knowledge, groups can continue to develop agents in the “l2rpn_case14_sandbox” configuration of the environment. 
+  The hackathon will end with a presentation from the different groups on their agent design and performance.
+</p>
+
+<h2>Helpful tools & resources</h2>
+
+<p>
+  <ul>
+    <li>
+      <a href="https://www.google.com/url?q=https://github.com/rte-france/Grid2Op&amp;sa=D&amp;source=editors&amp;ust=1679321822324176&amp;usg=AOvVaw14RjJ0b6zEdwWQahQN_Bdr">
+      Grid2Op Github Page
+      </a>
+    </li>
+    <li>
+      <a class="c9" href="https://www.google.com/url?q=https://codalab.lisn.upsaclay.fr/competitions/5410%23learn_the_details-good-to-know&amp;sa=D&amp;source=editors&amp;ust=1679321822324434&amp;usg=AOvVaw0AayOmYrIROpTqb7PeChR8">
+      L2RPN 2022 Coda Lab Challenge
+      </a>
+    </li>
+  </ul>
+</p>
+
+<h2>Running the project locally</h2>
+
+<p>
+  We have tested running the project locally with python 3.8.10 and using the following 
+  <a href="https://www.google.com/url?q=https://drive.google.com/file/d/1yzdEvuCCO-FqKZOXtxZDLkAUqOCYEiRW/view?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1679321822325095&amp;usg=AOvVaw2YcMN09wTSz3Pr58oXGkPz">
+  requirements file.</a>
+</P>
+
+<h2>References</h2>
+<p>
+  <ol>
+    <li>
+      Marot, Antoine, Isabelle Guyon, Benjamin Donnot, Gabriel Dulac-Arnold, Patrick Panciatici, Mariette Awad, Aidan O’Sullivan, Adrian Kelly, 
+      and Zigfried Hampel-Arias. "L2rpn: Learning to run a power network in a sustainable world neurips2020 challenge design." <i>Réseau de Transport 
+      d’Électricité, Paris, France, White Paper (2020).</i>
+    </li>
+    <li>
+      Kelly, Adrian, Aidan O'Sullivan, Patrick de Mars, and Antoine Marot. "Reinforcement learning for electricity network operation." <i>arXiv 
+      preprint arXiv:2003.07339 (2020)</i>
+    </li>
+    <li>
+      Yoon, Deunsol, Sunghoon Hong, Byung-Jun Lee, and Kee-Eung Kim. "Winning the l2rpn challenge: Power grid management via semi-markov 
+      afterstate actor-critic." <i>In International Conference on Learning Representations (2021)</i>
+    </li>
+  </ol>
+</p>
