@@ -1,9 +1,9 @@
 main:
   - label: Location
-    link: /ukai2023/e-hackathon-march-2023/location.html
+    link: /e-hackathon-march-2023/location.html
   - label: Schedul
-    link: /ukai2023/e-hackathon-march-2023/schedule.html
+    link: /e-hackathon-march-2023/schedule.html
   - label: Material
-    link: /ukai2023/e-hackathon-march-2023/material.html
+    link: /e-hackathon-march-2023/material.html
   - label: Participants
-    link: /ukai2023/e-hackathon-march-2023/participants.html
+    link: /e-hackathon-march-2023/participants.html
