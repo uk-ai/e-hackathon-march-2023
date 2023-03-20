@@ -6,6 +6,7 @@ layout: home
 ---
 
 <div id="description">
+  <h1>Turing AI Fellows and Teams Community Hackathon - 30th and 31st of March 2023</h1>
   <p>
     One of the key aspects to advance the Artificial Intelligence field is to build communities around ML and its applications. 
     As a step towards this goal, we are holding the first Turing AI Fellows Community Hackathon, which will enable ML and domain 
