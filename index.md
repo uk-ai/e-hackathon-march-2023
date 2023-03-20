@@ -19,7 +19,11 @@ layout: home
     <ul>
       <li>Causal discovery for cancer</li>
       <li>Low cost climate prediction</li>
-      <li>Learning to run a power network</li> 
+      <li>
+        <a href="./materials/grid_operation.html">
+          Learning to run a power network
+        </a>
+      </li> 
     </ul>
   </p>
   <p>
