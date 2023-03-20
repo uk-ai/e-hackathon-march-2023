@@ -1,4 +1,6 @@
 main:
+  - label: Home
+    link: /e-hackathon-march-2023/
   - label: Location
     link: /e-hackathon-march-2023/location.html
   - label: Schedule
