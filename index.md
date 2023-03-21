@@ -18,7 +18,11 @@ layout: home
   <p> 
     Participants can select research problems from the following list:
     <ul>
-      <li>Causal discovery for cancer</li>
+      <li>
+	    <a target="_blank" href="./materials/problem_1/causal_discovery_cancer.html">
+          Causal discovery for cancer
+        </a>
+	  </li>
       <li>
         <a target="_blank" href="./materials/problem_2/grid_operation.html">
           Learning to run a power network
