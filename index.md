@@ -19,12 +19,16 @@ layout: home
     Participants can select the research problem from the following list:
     <ul>
       <li>Causal discovery for cancer</li>
-      <li>Low cost climate prediction</li>
       <li>
-        <a target="_blank" href="./materials/problem_3/grid_operation.html">
+        <a target="_blank" href="./materials/problem_2/grid_operation.html">
           Learning to run a power network
         </a>
       </li> 
+      <li>
+        <a target="_blank" href="./materials/problem_3/low_cost_prediction.html">
+          Low cost climate prediction
+        </a>
+      </li>  
     </ul>
   </p>
   <p>
