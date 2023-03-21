@@ -1,9 +1,10 @@
 main:
   - label: Home
     link: /e-hackathon-march-2023/
-  - label: Location
-    link: /e-hackathon-march-2023/location.html
-  - label: Schedule
-    link: /e-hackathon-march-2023/schedule.html
   - label: Participants
     link: /e-hackathon-march-2023/participants.html
+  - label: Schedule
+    link: /e-hackathon-march-2023/schedule.html
+  - label: Location
+    link: /e-hackathon-march-2023/location.html
+  
