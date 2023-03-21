@@ -13,10 +13,10 @@ layout: home
     experts to share their knowledge and start building research collaborations.
   </p>
   <p>
-    Hackathon participants will form teams and select a research problem to address during their two days at Cambridge. 
+    Hackathon participants will form teams and select one (or more) research problems to address during their two days at Cambridge. 
   </p>
   <p> 
-    Participants can select the research problem from the following list:
+    Participants can select research problems from the following list:
     <ul>
       <li>Causal discovery for cancer</li>
       <li>
@@ -34,4 +34,12 @@ layout: home
   <p>
     Each team will give a short presentation at the end of the second day to summarise their work.
   </p>
+  <h2>Organising Team</h2>
+    <ul>
+      <li>Christian Cabrera - University of Cambridge</li>
+	  <li>Pingfan Song - University of Cambridge</li>
+	  <li>Paul Festor - Imperial College London</li>
+	  <li>Tomisin Dada - University of Cambridge</li>
+	  <li>Giorgos Felekis - University of Warwick</li>
+    </ul>
 </div>
