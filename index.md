@@ -42,4 +42,8 @@ layout: home
 	  <li>Tomisin Dada - University of Cambridge</li>
 	  <li>Giorgos Felekis - University of Warwick</li>
     </ul>
+	<h2>Chairs</h2>
+    <ul>
+      <li>Neil D. Lawrence - University of Cambridge</li>
+    </ul>
 </div>
