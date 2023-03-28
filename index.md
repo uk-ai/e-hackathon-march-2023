@@ -38,6 +38,9 @@ layout: home
   <p>
     Each team will give a short presentation at the end of the second day to summarise their work.
   </p>
+  <p>
+    Participants should bring their own laptop where they will implement and test their solutions.
+  </p>
   <h2>Organising Team</h2>
     <ul>
       <li>Christian Cabrera - University of Cambridge</li>
