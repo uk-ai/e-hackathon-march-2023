@@ -9,14 +9,17 @@ layout: home
   <h1>Turing AI Fellows and Teams Community Hackathon (30th and 31st of March 2023)</h1>
   <p>
     One of the key aspects to advance the Artificial Intelligence field is to build communities around ML and its applications. 
-    As a step towards this goal, we are holding the first Turing AI Fellows Community Hackathon, which will enable ML and domain 
+    As a step towards this goal, we held the first Turing AI Fellows Community Hackathon, which will enable ML and domain 
     experts to share their knowledge and start building research collaborations.
   </p>
   <p>
-    Hackathon participants will form teams and select one (or more) research problems to address during their two days at Cambridge. 
+    <img src="./pics/participants.jpg" alt="Hackathon Participants">
+  </p>
+  <p>
+    Hackathon participants formed teams and selected one research problem to address during their two days at Cambridge. 
   </p>
   <p> 
-    Participants can select research problems from the following list:
+    Participants selected research problems from the following list:
     <ul>
       <li>
 	    <a target="_blank" href="./materials/problem_1/causal_discovery_cancer.html">
@@ -36,10 +39,7 @@ layout: home
     </ul>
   </p>
   <p>
-    Each team will give a short presentation at the end of the second day to summarise their work.
-  </p>
-  <p>
-    Participants should bring their own laptop where they will implement and test their solutions.
+    Each team gave a short presentation at the end of the second day to summarise their work.
   </p>
   <h2>Organising Team</h2>
     <ul>
