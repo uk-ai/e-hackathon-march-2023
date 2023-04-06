@@ -40,6 +40,28 @@ layout: home
   </p>
   <p>
     Each team gave a short presentation at the end of the second day to summarise their work.
+	<ul>
+      <li>
+        <a target="_blank" href="./presentations/group-1-grid-hackers.pdf">
+          Group 1: Learning to run a power network - Grid hackers
+        </a>
+	  </li>
+      <li>
+        <a target="_blank" href="./presentations/group-2-l2rpn.pdf">
+          Group 2: Learning to run a power network - L2RPN
+        </a>
+      </li> 
+      <li>
+        <a target="_blank" href="./presentations/group-3-low-cost-climate.pdf">
+          Group 3: Low cost climate prediction
+        </a>
+      </li>  
+	  <li>
+        <a target="_blank" href="./presentations/group-4-causal-discovery-cancer.pdf">
+          Group 4: Causal Discovery for Cancer
+        </a>
+      </li>
+    </ul>
   </p>
   <h2>Organising Team</h2>
     <ul>
